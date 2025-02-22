@@ -18,4 +18,6 @@ A collection (and a full documentation) of my experimentation with maps in 2025.
 - day 17-23: experiment with aesthetic, 3d maps.
 - day 24-30: i don't know that yet, let's find out later.
 
-**People to Follow:**
+**Inspiration/People to Follow:**
+- **[Topi Tjukanov](https://x.com/Tjukanov):** the original creator of the [#30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge).
+- **[Wendy Shijia](https://x.com/ShijiaWendy):** inspiration for aesthetic and physical map experiments.
