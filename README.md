@@ -11,6 +11,11 @@ A collection (and a full documentation) of my experimentation with maps in 2025.
 - stay flexible with the plan.
 - work on it when time allows, no need for 30 consecutive days
 
-**Plan:**
+**The Big Plan:**
+- day 1-2: build maps using basic shapes.
+- day 3-9: build interactive maps, visualize data.
+- day 10-16: experiment with physical maps.
+- day 17-23: experiment with aesthetic, 3d maps.
+- day 24-30: i don't know that yet, let's find out later.
 
-**People to follow:**
+**People to Follow:**
