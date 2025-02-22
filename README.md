@@ -4,7 +4,7 @@ A collection (and a full documentation) of my experimentation with maps in 2025.
 
 ## The Big Picture
 
-**Motivation:** everyone uses maps. when we travel, when we learn history, when we read fiction, but few actually make them. my goal for this challenge is to learn how to make my own maps to support these activities i'm interested.
+**Motivation:** everyone uses maps. when we [travel](https://www.instagram.com/chunrapeepat/), when we [learn history](https://x.com/chunrapeepat/status/1735255332304441682), when we [read fiction/non-fiction books](https://chunrapeepat.com/books/), but few actually make them. my goal for this challenge is to learn how to make my own maps to support these activities i'm interested.
 
 **Rules:**
 - document everything, here.
