@@ -33,22 +33,13 @@ A collection (and a full documentation) of my experimentation with maps in 2025.
       <th>Day</th>
       <th>Preview</th>
       <th>Challenge</th>
-      <th>Description</th>
-      <th>Learning</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1</td>
-      <td><img src="./assets/day1.png" width="500"/></td>
-      <td>turn my latest 🇻🇳 trip journal into map</td>
-      <td>create a map that record my sentiment, visited places, highlights photo that i can quickly shared it with my friend.</td>
-      <td>
-        <ul> 
-          <li>how to use basic shapes—point, line, polygon—to make map with <a href="https://felt.com">Felt</a></li>
-          <li>the final result is a bit messy, but it give me an idea of how i would do in the next one.</li>
-        </ul>
-      </td>
+      <td><img src="./assets/day1.png" width="300"/></td>
+      <td>turn my past 🇻🇳 trip journal into map<br><a href="https://x.com/chunrapeepat/status/1894790363786944674" target="_blank">(read more on x)</a></td>
     </tr>
   </tbody>
 </table>
