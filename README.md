@@ -39,7 +39,7 @@ A collection (and a full documentation) of my experimentation with maps in 2025.
     <tr>
       <td>1</td>
       <td><img src="./assets/day1.png" width="300"/></td>
-      <td>turn my past 🇻🇳 trip journal into map<br><a href="https://x.com/chunrapeepat/status/1894790363786944674" target="_blank">(read more on x)</a></td>
+      <td>turn my past 🇻🇳 trip journal into map with Felt<br><a href="https://x.com/chunrapeepat/status/1894790363786944674" target="_blank">(read more on x)</a></td>
     </tr>
   </tbody>
 </table>
