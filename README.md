@@ -45,9 +45,8 @@ A collection (and a full documentation) of my experimentation with maps in 2025.
       <td>create a map that record my sentiment, visited places, highlights photo that i can quickly shared it with my friend.</td>
       <td>
         <ul> 
-          <li>how to use basic shapes—point, line, polygon—to make map with [Felt](https://felt.com)</li>
+          <li>how to use basic shapes—point, line, polygon—to make map with <a href="https://felt.com">Felt</a></li>
           <li>the final result is a bit messy, but it give me an idea of how i would do in the next one.</li>
-          <li>(tip: turn on the google maps timeline next time so i can just import the data into map)</li>
         </ul>
       </td>
     </tr>
